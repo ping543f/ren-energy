@@ -1,5 +1,5 @@
 # ren-energy
-Code and data repository for the paper titled Predicting Short Term Energy Demand in Smart Grid: A Deep Learning Approach for Integrating Renewable Energy Sources in Line with SDGs 7, 9, and 13
+Code and data repository for the paper titled "REDf: A deep learning Model for Short-Term Load Forecasting to Facilitate Renewable Integration and attaining the SDGs 7, 9, and 13"
+# Cite this code and repository
 
-# Request code and data set at the following email,
-md.saefullah@gmail.com
+Miah, M. S. U. (2025). Code of REDf: A deep learning Model for Short-Term Load Forecasting (1.0). Zenodo. https://doi.org/10.5281/zenodo.14989327
